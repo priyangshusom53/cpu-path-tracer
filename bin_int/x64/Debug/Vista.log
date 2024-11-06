@@ -1,0 +1,25 @@
+﻿  Application.cpp
+C:\dev\_vista\Vista\Vista\src\Engine\Events\MouseEvent.h(12,35): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'src/Engine/Application.cpp')
+  
+C:\dev\_vista\Vista\Vista\src\Engine\Events\MouseEvent.h(13,35): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'src/Engine/Application.cpp')
+  
+C:\dev\_vista\Vista\Vista\src\Engine\Application.cpp(107,17): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\dev\_vista\Vista\Vista\src\Engine\Application.cpp(108,17): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\dev\_vista\Vista\Vista\src\Engine\Application.cpp(121,64): warning C4244: '=': conversion from 'double' to 'T', possible loss of data
+C:\dev\_vista\Vista\Vista\src\Engine\Application.cpp(121,64): warning C4244:         with
+C:\dev\_vista\Vista\Vista\src\Engine\Application.cpp(121,64): warning C4244:         [
+C:\dev\_vista\Vista\Vista\src\Engine\Application.cpp(121,64): warning C4244:             T=float
+C:\dev\_vista\Vista\Vista\src\Engine\Application.cpp(121,64): warning C4244:         ]
+C:\dev\_vista\Vista\Vista\src\Engine\Application.cpp(122,20): warning C4244: '=': conversion from 'double' to 'T', possible loss of data
+C:\dev\_vista\Vista\Vista\src\Engine\Application.cpp(122,20): warning C4244:         with
+C:\dev\_vista\Vista\Vista\src\Engine\Application.cpp(122,20): warning C4244:         [
+C:\dev\_vista\Vista\Vista\src\Engine\Application.cpp(122,20): warning C4244:             T=float
+C:\dev\_vista\Vista\Vista\src\Engine\Application.cpp(122,20): warning C4244:         ]
+C:\dev\_vista\Vista\Vista\src\Engine\Application.cpp(123,64): warning C4244: '=': conversion from 'double' to 'T', possible loss of data
+C:\dev\_vista\Vista\Vista\src\Engine\Application.cpp(123,64): warning C4244:         with
+C:\dev\_vista\Vista\Vista\src\Engine\Application.cpp(123,64): warning C4244:         [
+C:\dev\_vista\Vista\Vista\src\Engine\Application.cpp(123,64): warning C4244:             T=float
+C:\dev\_vista\Vista\Vista\src\Engine\Application.cpp(123,64): warning C4244:         ]
+  Vista.vcxproj -> C:\dev\_vista\Vista\bin\x64\Debug\Vista.exe

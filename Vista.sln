@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32630.192
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Vista", "Vista\Vista.vcxproj", "{07BC10A5-E4E0-4353-A3DF-52E6DCF3BFE9}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "PathTracing_01", "PathTracing_01\PathTracing_01.vcxproj", "{CA1BBD29-13F5-4290-8F95-2884D43158D8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{07BC10A5-E4E0-4353-A3DF-52E6DCF3BFE9}.Debug|x64.ActiveCfg = Debug|x64
+		{07BC10A5-E4E0-4353-A3DF-52E6DCF3BFE9}.Debug|x64.Build.0 = Debug|x64
+		{07BC10A5-E4E0-4353-A3DF-52E6DCF3BFE9}.Release|x64.ActiveCfg = Release|x64
+		{07BC10A5-E4E0-4353-A3DF-52E6DCF3BFE9}.Release|x64.Build.0 = Release|x64
+		{CA1BBD29-13F5-4290-8F95-2884D43158D8}.Debug|x64.ActiveCfg = Debug|x64
+		{CA1BBD29-13F5-4290-8F95-2884D43158D8}.Debug|x64.Build.0 = Debug|x64
+		{CA1BBD29-13F5-4290-8F95-2884D43158D8}.Release|x64.ActiveCfg = Release|x64
+		{CA1BBD29-13F5-4290-8F95-2884D43158D8}.Release|x64.Build.0 = Release|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C7BF28F5-F56F-44DA-984B-980C3C32C1E6}
+	EndGlobalSection
+EndGlobal
